@@ -6,9 +6,11 @@ public class Ovning {
         String personnummer = JOptionPane.showInputDialog("What personnummer?(yyyy-mm-dd)");
         char h1 = personnummer.charAt(7);
         if (h1 % 2 == 0 && Gender.equals("Kille")){
-            JOptionPane.showMessageDialog(null, "stämmer");
+            JOptionPane.showMessageDialog(null, "Stämmer");
+        } else if (h1 % 2 == 1 && Gender.equals("tjej")) {
+            JOptionPane.showMessageDialog(null, ("Stämmer"));
         } else {
-            JOptionPane.showMessageDialog(null, ("stämmer inte"));
+            JOptionPane.showMessageDialog(null, "Stämmer inte");
         }
 
     }
