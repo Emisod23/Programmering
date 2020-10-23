@@ -9,5 +9,10 @@ public class Diagnos {
         b++;
         JOptionPane.showMessageDialog(null, c);
         }
+        for (b=1; b<=10; b=b++) {
+            int c = a * b;
+            b++;
+            JOptionPane.showMessageDialog(null, c);
+        }
     }
 }
