@@ -12,7 +12,7 @@ public class Quiz {
             JOptionPane.showMessageDialog(null, "YOU UTTER FOOL!!");
         }
         String Q2 = JOptionPane.showInputDialog(null, "Is 23 a prime number?");
-        if (Q2.equals("yes")){
+        if (Q2.equals("Yes")){
             JOptionPane.showMessageDialog(null, "Why yes of course");
         } else {
             JOptionPane.showMessageDialog(null, "YOU KNOW NOT THE BEAUTY OF 23?!");
