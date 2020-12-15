@@ -20,6 +20,8 @@ public class Quiz {
         String Q3 = JOptionPane.showInputDialog(null, "Can you see all of me, capture you or set you free. I am all, I am all, of me. Who am I?");
         if (Q3.equals("Shadow the hedgehog")) {
             JOptionPane.showMessageDialog(null, "Congratulations, you have passed the test. Now you get to squish dog.");
+        } else {
+            JOptionPane.showMessageDialog(null, "Tis a shame, for thine knowledge is limited.");
         }
     }
 }
