@@ -13,7 +13,11 @@ public class Hangman {
         String name2 = HiddenWord(name);
         String guess = JOptionPane.showInputDialog("Ditt namn är " + name2 + " Gissa på en ny bokstav");
         if (name.contains(guess)){
-            System.out.println(name.indexOf(guess));
+            int i = name.indexOf(guess);
+            int i2 = (name.indexOf(guess, i+1));
+            int i3 = (name.indexOf(guess, i2+1));
+            System.out.println(i);
+            System.out.println(i2);
         }
         System.out.println(guess);
         System.out.println(name);
