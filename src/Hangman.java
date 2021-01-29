@@ -1,7 +1,7 @@
 package src;
 
 import javax.swing.*;
-
+//jsjdfnuhesjeju
 public class Hangman {
     private static String pickrandomname (){
         String[] names = {"angelina", "skadi","silverash", "ceobe", "manticore", "schwarz", "blaze", "exusiai", "hoshiguma", "saria", "nightingale", "shining", "eyjafjalla", "mostima", "magallan", "w", "blue poison", "lappland", "astesia", "specter", "hellagur", "sora", "amiya", "zima", "warfarin", "pramanix", "liskarm", "grani", "bibeak", "absinthe", "indra", "siege", "bagpipe", "glaucus", "asbestos", "sideroca", "ceylon", "istina", "vulcan", "snowsant", "broca", "silence", "cliffheart", "feater", "mayer", "nearl", "platinum", "ptilopsis", "chen", "aak", "rosa", "phantom", "suzuran", "weedy" };
@@ -36,6 +36,7 @@ public class Hangman {
         name2 = name2.replace("x", "_");
         name2 = name2.replace("y", "_");
         name2 = name2.replace("z", "_");
+        System.out.println(name);
         System.out.println(name2);
     }
 }
