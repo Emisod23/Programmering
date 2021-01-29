@@ -18,6 +18,7 @@ public class Hangman {
             int i3 = (name.indexOf(guess, i2+1));
             System.out.println(i);
             System.out.println(i2);
+            name2.replace("_".indexOf(i), guess);
         }
         System.out.println(guess);
         System.out.println(name);
