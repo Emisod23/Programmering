@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aca8e3c3-38f4-4001-8ce9-abffc8084e71" name="Default Changelist" comment="Fått vad spelarn gissar och sett vars en av bokstaven finns i ordet.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hangman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hangman.java" afterDir="false" />
-    </list>
+    <list default="true" id="aca8e3c3-38f4-4001-8ce9-abffc8084e71" name="Default Changelist" comment="Försökte byta ut positionen av svaret med svaret men han inte" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +128,19 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1611912962972</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="can hitta index av varje möjlig likadan bokstav">
+      <created>1611914330404</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1611914330404</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Försökte byta ut positionen av svaret med svaret men han inte">
+      <created>1611915216929</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1611915216929</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +158,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="Fått vad spelarn gissar och sett vars en av bokstaven finns i ordet." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fått vad spelarn gissar och sett vars en av bokstaven finns i ordet." />
+    <MESSAGE value="can hitta index av varje möjlig likadan bokstav" />
+    <MESSAGE value="Försökte byta ut positionen av svaret med svaret men han inte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Försökte byta ut positionen av svaret med svaret men han inte" />
   </component>
 </project>
