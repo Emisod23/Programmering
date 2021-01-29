@@ -1,7 +1,7 @@
 package src;
 
 import javax.swing.*;
-//jsjdfnuhesjeju
+
 public class Hangman {
     private static String pickrandomname (){
         String[] names = {"angelina", "skadi","silverash", "ceobe", "manticore", "schwarz", "blaze", "exusiai", "hoshiguma", "saria", "nightingale", "shining", "eyjafjalla", "mostima", "magallan", "w", "blue poison", "lappland", "astesia", "specter", "hellagur", "sora", "amiya", "zima", "warfarin", "pramanix", "liskarm", "grani", "bibeak", "absinthe", "indra", "siege", "bagpipe", "glaucus", "asbestos", "sideroca", "ceylon", "istina", "vulcan", "snowsant", "broca", "silence", "cliffheart", "feater", "mayer", "nearl", "platinum", "ptilopsis", "chen", "aak", "rosa", "phantom", "suzuran", "weedy" };
@@ -10,6 +10,16 @@ public class Hangman {
 
     public static void main(String[] args) {
         String name = pickrandomname();
+        String name2 = HiddenWord(name);
+        String guess = JOptionPane.showInputDialog("Ditt namn är " + name2 + " Gissa på en ny bokstav");
+        if (name.contains(guess)){
+            System.out.println(name.indexOf(guess));
+        }
+        System.out.println(guess);
+        System.out.println(name);
+    }
+
+    private static String HiddenWord(String name) {
         String name2 = name.replace("a", "_");
         name2 = name2.replace("b", "_");
         name2 = name2.replace("c", "_");
@@ -36,7 +46,6 @@ public class Hangman {
         name2 = name2.replace("x", "_");
         name2 = name2.replace("y", "_");
         name2 = name2.replace("z", "_");
-        System.out.println(name);
-        System.out.println(name2);
+        return name2;
     }
 }
