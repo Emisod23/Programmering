@@ -7,6 +7,11 @@ import java.awt.event.ActionListener;
 
 public class NoTE19pad {
     private JMenuBar menuBar;
+    private JTextArea textArea1;
+    private JButton Copy;
+    private JButton Clear;
+    private JButton button;
+    private JPanel Panel;
 
     public NoTE19pad() {
         Clear.addActionListener(new ActionListener() {
@@ -18,17 +23,11 @@ public class NoTE19pad {
     }
 
     public static void main(String[] args) {
-    JFrame frame = new JFrame("GUIManagerExample");
-    NoTE19pad gui = new NoTE19pad();
-    frame.setContentPane(gui.textArea1);
-    frame.setJMenuBar(gui.menuBar);
-    frame.setContentPane(gui.Clear);
-    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-    frame.pack();
-    frame.setVisible(true);
-}
-    private JTextArea textArea1;
-    private JButton Copy;
-    private JButton Clear;
-    private JButton button;
+        JFrame frame = new JFrame("NoTE19pad");
+        frame.setContentPane(new NoTE19pad().Panel);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.pack();
+        frame.setVisible(true);
+
+    }
 }

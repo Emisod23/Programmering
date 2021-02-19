@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aca8e3c3-38f4-4001-8ce9-abffc8084e71" name="Default Changelist" comment="Försökte byta ut positionen av svaret med svaret men han inte">
+    <list default="true" id="aca8e3c3-38f4-4001-8ce9-abffc8084e71" name="Default Changelist" comment="pane go brrr">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Programmering/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programmering/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programmering/Diagnos2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programmering/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programmering/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programmering/src/Hangman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hangman.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NoTE19pad.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/NoTE19pad.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NoTE19pad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NoTE19pad.java" afterDir="false" />
     </list>
@@ -35,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -157,7 +153,13 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1611915216929</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="pane go brrr">
+      <created>1613470485425</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1613470485425</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +179,7 @@
     <MESSAGE value="Fått vad spelarn gissar och sett vars en av bokstaven finns i ordet." />
     <MESSAGE value="can hitta index av varje möjlig likadan bokstav" />
     <MESSAGE value="Försökte byta ut positionen av svaret med svaret men han inte" />
-    <option name="LAST_COMMIT_MESSAGE" value="Försökte byta ut positionen av svaret med svaret men han inte" />
+    <MESSAGE value="pane go brrr" />
+    <option name="LAST_COMMIT_MESSAGE" value="pane go brrr" />
   </component>
 </project>
