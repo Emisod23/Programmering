@@ -35,9 +35,10 @@ public class Komplex {
         return new Komplex(newv, newv1);
     }
 
-    /*public Komplex multiply(Komplex b) {
+    public Komplex multiply(Komplex b) {
+
     }
 
-    public double arg() {
+    /*public double arg() {
     }*/
 }
