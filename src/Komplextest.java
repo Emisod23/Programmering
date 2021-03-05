@@ -8,7 +8,7 @@ public class Komplextest {
 
         System.out.println("talet borde vara 3 + 2i:\n" + a);
         System.out.println(a.v + a.v1 + b.v + b.v1);
-        /*Komplex c = a.add(b);
+        Komplex c = a.add(b);
         Komplex d = new Komplex(7,3);
 
         System.out.println(c);
