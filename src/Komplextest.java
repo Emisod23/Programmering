@@ -1,4 +1,4 @@
-package src;
+/*package src;
 
 public class Komplextest {
 
@@ -24,9 +24,9 @@ public class Komplextest {
             System.out.println("multiply funkar!!");
         }
 
-        /*System.out.println("Argumentet till 3+2i är " + a.arg());
+        System.out.println("Argumentet till 3+2i är " + a.arg());
         if (a.arg() == Math.atan(2.0/3)) {
             System.out.println("arg() funkar!!");
-        }*/
+        }
     }
-}
+}*/

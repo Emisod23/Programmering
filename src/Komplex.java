@@ -1,4 +1,4 @@
-package src;
+/*package src;
 
 import java.util.Objects;
 
@@ -39,6 +39,6 @@ public class Komplex {
 
     }
 
-    /*public double arg() {
-    }*/
-}
+    public double arg() {
+    }
+}*/

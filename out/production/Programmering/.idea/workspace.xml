@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aca8e3c3-38f4-4001-8ce9-abffc8084e71" name="Default Changelist" comment="pane go brrr">
+    <list default="true" id="aca8e3c3-38f4-4001-8ce9-abffc8084e71" name="Default Changelist" comment="it add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Programmering/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programmering/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NoTE19pad.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/NoTE19pad.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NoTE19pad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NoTE19pad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +30,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GrafikTE19" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.NoTE19pad">
-    <configuration name="Diagnos (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Diagnos" />
-      <module name="Programmering" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Komplextest">
     <configuration name="Hangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Hangman" />
       <module name="Programmering" />
@@ -68,6 +53,19 @@
     <configuration name="Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Helloworld" />
       <module name="Programmering" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Komplextest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Komplextest" />
+      <module name="Programmering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Komplextest" />
         <item itemvalue="Application.NoTE19pad" />
         <item itemvalue="Application.Hangman" />
         <item itemvalue="Application.Quiz" />
         <item itemvalue="Application.Helloworld" />
-        <item itemvalue="Application.Diagnos (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +157,25 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1613470485425</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="har get variablerna värden i java filem med alla metoder">
+      <created>1614680042443</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1614680042443</updated>
+    </task>
+    <task id="LOCAL−00009" summary="it add">
+      <created>1614937199808</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1614937199808</updated>
+    </task>
+    <task id="LOCAL−00010" summary="it add">
+      <created>1614943376507</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1614943376507</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +196,8 @@
     <MESSAGE value="can hitta index av varje möjlig likadan bokstav" />
     <MESSAGE value="Försökte byta ut positionen av svaret med svaret men han inte" />
     <MESSAGE value="pane go brrr" />
-    <option name="LAST_COMMIT_MESSAGE" value="pane go brrr" />
+    <MESSAGE value="har get variablerna värden i java filem med alla metoder" />
+    <MESSAGE value="it add" />
+    <option name="LAST_COMMIT_MESSAGE" value="it add" />
   </component>
 </project>
