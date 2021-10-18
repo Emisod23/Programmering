@@ -12,7 +12,7 @@ public class NoTE19pad {
     private JButton Copy;
     private JButton Clear;
     private JButton Open;
-    private JPanel Panel;
+    public JPanel Panel;
 
     public NoTE19pad() {
         Clear.addActionListener(new ActionListener() {

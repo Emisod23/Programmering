@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aca8e3c3-38f4-4001-8ce9-abffc8084e71" name="Default Changelist" comment="it add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programmering/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programmering/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,15 +27,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GrafikTE19" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Komplextest">
+  <component name="RunManager" selected="Application.NoTE19pad">
     <configuration name="Hangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Hangman" />
       <module name="Programmering" />
@@ -98,8 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Komplextest" />
         <item itemvalue="Application.NoTE19pad" />
+        <item itemvalue="Application.Komplextest" />
         <item itemvalue="Application.Hangman" />
         <item itemvalue="Application.Quiz" />
         <item itemvalue="Application.Helloworld" />
@@ -175,7 +173,13 @@
       <option name="presentableId" value="LOCAL−00010" />
       <updated>1614943376507</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011" summary="it add">
+      <created>1634211915273</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1634211915273</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
